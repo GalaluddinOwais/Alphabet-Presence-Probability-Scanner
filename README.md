@@ -10,13 +10,17 @@ This project requires **Python 3.x** and the following Python libraries installe
 - [cv2]
 - [pandas]
 
+you will also need to download the following .zip file
+- [.csv datasets for each alphabet](https://drive.google.com/file/d/1R-xO2VFmfdvSZcZRTiaQ39kOBwTJ5Igd/view?usp=sharing) (extract it to `data\thresholded` folder )
+- [folders of images specific for each alphabet](https://drive.google.com/file/d/1P9Nuhanv9i-cgG10_PeMcp3pxeBpM1mf/view?usp=sharing) (extract it to `images` folder )
+
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
 ### Content
 
 - Code is provided in the `scanning_an_image_for_probability_of_presence_of_every_alphabet.ipynb` notebook file.
 - `data\thresholded` folder contains .csv dataset files specific for each alphabet.
-- `data\images` folder contains folders specific for each alphabet. each folder contains images of the alphabet it is specific for
+- `images` folder contains folders specific for each alphabet. each folder contains images of the alphabet it is specific for
 - `passiveModel` is a persisntent python dictionary holding some results
 - `test` folder contains images to test on
 
