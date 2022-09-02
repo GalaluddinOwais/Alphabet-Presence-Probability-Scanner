@@ -14,11 +14,11 @@ You will also need to have software installed to run and execute an [iPython Not
 
 ### Content
 
-Code is provided in the `scanning_an_image_for_probability_of_presence_of_every_alphabet.ipynb` notebook file. 
-`data\thresholded` folder contains .csv dataset files specific for each alphabet.
-`data\images` folder contains folders specific for each alphabet. each folder contains images of the alphabet it is specific for
-`passiveModel` is a persisntent python dictionary holding some results
-`test` folder contains images to test on
+Code is provided in the `scanning_an_image_for_probability_of_presence_of_every_alphabet.ipynb` notebook file. \n
+`data\thresholded` folder contains .csv dataset files specific for each alphabet.\
+`data\images` folder contains folders specific for each alphabet. each folder contains images of the alphabet it is specific for\
+`passiveModel` is a persisntent python dictionary holding some results\
+`test` folder contains images to test on\
 ### project idea
 calculation of probability of presence of an alphabet in an image by considering the amount of compatibility of each pixel with each pixel of a collection of images of that alphabet as total
 
