@@ -4,11 +4,11 @@
 
 This project requires **Python 3.x** and the following Python libraries installed:
 
-- [NumPy]
-- [pickle]
-- [matplotlib]
-- [cv2]
-- [pandas]
+- NumPy
+- pickle
+- matplotlib
+- cv2
+- pandas
 
 you will also need to download the following .zip files
 - [.csv datasets for each alphabet](https://drive.google.com/file/d/1R-xO2VFmfdvSZcZRTiaQ39kOBwTJ5Igd/view?usp=sharing) (extract it to `data\thresholded` folder )
