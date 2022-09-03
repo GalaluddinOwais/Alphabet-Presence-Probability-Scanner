@@ -10,7 +10,7 @@ This project requires **Python 3.x** and the following Python libraries installe
 - [cv2]
 - [pandas]
 
-you will also need to download the following .zip file
+you will also need to download the following .zip files
 - [.csv datasets for each alphabet](https://drive.google.com/file/d/1R-xO2VFmfdvSZcZRTiaQ39kOBwTJ5Igd/view?usp=sharing) (extract it to `data\thresholded` folder )
 - [folders of images specific for each alphabet](https://drive.google.com/file/d/1P9Nuhanv9i-cgG10_PeMcp3pxeBpM1mf/view?usp=sharing) (extract it to `images` folder )
 
