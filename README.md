@@ -54,3 +54,6 @@ jupyter notebook scanning_an_image_for_probability_of_presence_of_every_alphabet
 ```
 
 This will open the iPython Notebook software and project file in your browser.
+
+### Inspired from
+[The Personality Type Your Answers Fit The Most](https://github.com/GalaluddinOwais/The-Personality-Type-Your-Answers-Fit-The-Most)
